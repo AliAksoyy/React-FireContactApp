@@ -1,7 +1,7 @@
-<h1 align="center">React My Blog App</h1>
+<h1 align="center">React Fire-Contact App</h1>
 
 <h3>Overview</h3>
-👨‍💻 In this project I mastered React skills. I used mainly REACT and Material UI, Bootstrap, React Router, Redux, Formik/Yup, Firebase. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
+👨‍💻 👨In this project I mastered React skills. I used mainly REACT and Material UI, Bootstrap, Redux, Firebase. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
 <hr>
 
 ## ✨ Demo
@@ -20,40 +20,24 @@
 ````
 ## Project Skeleton 
 
-- MyBlog App (folder)
+- Contact App (folder)
 |
 |----readme.md         
 SOLUTION
 ├── public
 │     └── index.html
 ├── src
-│    ├── router
-│    │       ├── AppRouter.js
-│    │       └── PrivateRouter.js
 │    ├── components
-│    │       ├── BlogCard.js
-│    │       ├── BlogForm.js
-│    │       └── Navbar.js
-│    │       └── UpdateBlog.js
-│    │       └── CommentsPagination.js
-│    ├── features
-│    │       ├── AuthSlice.js
-│    │       └── BlogSlice.js
-│    ├── helpers
+│    │       ├── Form.jsx
+│    │       └── Table.jsx
+│    ├── redux
+│    │       ├── editAction.js
+│    │       └── editReducer.js
+│    ├       └── index.js
+│    ├── utils
 │    │       ├── firebase.js
-│    │       └── toastNotify.js
-│    ├── pages
-│    │       ├── Dashboard.js
-│    │       ├── Details.js
-│    │       ├── Login.js
-│    │       ├── NewBlog.js
-│    │       ├── Profile.js
-│    │       ├── Register.js
-│    │       └── UpdateMyBlog.js
-│    ├── assets
-│    │       └── [images]
-│    ├── app
-│    │    └── store.jsx
+│    │       ├── customToastify.js
+│    │            
 │    ├── App.js
 │    ├── index.js
 │    └── index.css
