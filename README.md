@@ -49,7 +49,7 @@ SOLUTION
 <!-- --------------------------------------- -->
 ### Purpose of Project;
 
-👨‍💻 The main aim of this project is to improve my <b>REACT/Styled Component/JS/git commands (push, pull, commit, add etc.) skills and responsive design abilities</b>.
+👨‍💻 The main aim of this project is to improve my <b> REACT/Styled Component/JS/git commands (push, pull, commit, add etc.) skills and responsive design abilities.</b>
 
 
 ## Objective
@@ -58,17 +58,13 @@ SOLUTION
 
 ### The project covers;
 
-- HTML / Semantic elements 
+-HTML / Semantic elements
 
-- Material UI - React Toastify - Bootstrap
+-Material UI - React Toastify - Bootstrap
 
-- REACT / Components , Props , Hooks , Router, Redux  etc.
+-REACT / Components , Props , Hooks, Redux etc.
 
-- Formik - Yup
-
-- Firebase Realtime Database
-
-- Firebase Authentication 
+-Firebase Firestore DB
 
 ### At the end of the project, i will be able to;
 
@@ -85,7 +81,7 @@ SOLUTION
 <hr>
 <h3>How to Use the Project</h3>
 <span>First download a code editor </span>
-<br><span>Second open the files : </span><a href='https://github.com/AliAksoyy/React-BlogApp'>My Docs</a>
+<br><span>Second open the files : </span><a href='https://github.com/AliAksoyy/React-FireContactApp'>My Docs</a>
 <br><span>You should open vscode terminal and write "yarn or npm install" to make the project alive </span>
 <br><span>You can use this tutorial : </span><a href='https://www.youtube.com/watch?v=fJEbVCrEMSE'>VS Code tutorial</a>
 
